@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Guilherme
 
-Sou um desenvolvedor com foco em **Data Science**, apaixonado por transformar dados em soluções inteligentes. Tenho experiência com ferramentas como **Python**, **Pandas**, **NumPy**, **Jupyter** e **TensorFlow**. 
+Sou um desenvolvedor com foco em **Data Science**, que busca transformar dados em soluções inteligentes. Tenho experiência com ferramentas como **Python**, **Pandas**, **NumPy**, **Jupyter** e **TensorFlow**. 
 Atualmente, atuo como **Desenvolvedor Full Stack**, trabalhando com **JavaScript**, **React** e **Node.js** no desenvolvimento de aplicações web e mobile.  
 Estou sempre em busca de novos aprendizados e de aplicar tecnologia para gerar impacto real por meio de dados e código.
 
