@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2>🧰 Technologies & Tools</h2>
+<h2>Technologies & Tools</h2>
 
 <p align="center">
 
